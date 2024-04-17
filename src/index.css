@@ -1,0 +1,11 @@
+body {
+    font-family: "Poppins", sans-serif;
+}
+
+.card-list {
+    max-width: 900px;
+}
+
+.card-img {
+    max-width: 220px;
+}
