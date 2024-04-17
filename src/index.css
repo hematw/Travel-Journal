@@ -8,4 +8,5 @@ body {
 
 .card-img {
     max-width: 220px;
+    /* aspect-ratio: 4/5; */
 }

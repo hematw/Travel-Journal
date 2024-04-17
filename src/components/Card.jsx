@@ -5,7 +5,7 @@ export default function Card(props) {
     return (
         <div className="card flex items-center py-8 border-b border-gray-300 flex-col sm:flex-row">
             <img
-                className="card-img sm:mr-10 rounded-lg m-auto block"
+                className="card-img sm:mr-10 rounded-lg m-auto block aspect-[4/5]"
                 src={`images/${props.imageUrl}`} alt="China park"
             />
 
